@@ -1,4 +1,4 @@
-Project Overview – RAG-Based AI Chatbot System
+**Project Overview – RAG-Based AI Chatbot System**
 
 This project is an AI-powered Retrieval-Augmented Generation (RAG) chatbot designed for restaurant data interaction and intelligent response generation. The system enables users to query restaurant-related information such as menus, recipes, and sales data, and receive accurate, context-aware responses generated using a Large Language Model (Ollama).
 
@@ -6,7 +6,7 @@ The system integrates multiple data sources including Excel files, MySQL databas
 
 The project follows a full-stack architecture with a React-based frontend and a Node.js/Express backend, along with AI services and database integrations.
 
-Project File Structure and Description
+**Project File Structure and Description**
 Frontend (User Interface Layer)
 Built using React (Vite)
 Provides interactive chat interface for users
